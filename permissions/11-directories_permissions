@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -S chmod -R ugo+x /.
+find /. -type d -exec chmod ugo+x
