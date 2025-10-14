@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x /.
+sudo -s chmod -R ugo+x /.
