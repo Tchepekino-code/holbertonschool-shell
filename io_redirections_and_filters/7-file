@@ -1,7 +1,2 @@
 #!/bin/bash
-emacs ' hh\/** '
-
-
-
-
-
+emacs echo "Best School" > "\*\\'\"Best School\"\'\\*\$\?\*\*\*\*\*:)"
