@@ -1,2 +1,3 @@
 #!/bin/bash
-emacs echo "Best School" > "\*\\'\"Best School\"\'\\*\$\?\*\*\*\*\*:)"
+emacs echo "Best School" > "\\\*\\\\\'\"Best School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)"
+
