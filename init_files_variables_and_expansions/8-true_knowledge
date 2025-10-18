@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((12 8 + TRUEKNOWLEGDE))
+echo $((128 + TRUEKNOWLEGDE))
